@@ -5,7 +5,7 @@ title: David Rucinski
 
 
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+New to making websites, please bear with me.
 
 * Bulletpoint
 * Bulletpoint
@@ -17,8 +17,5 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 ### Header 3
 
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
-
+#### Header 4 ?
 
