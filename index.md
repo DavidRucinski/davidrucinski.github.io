@@ -27,21 +27,22 @@ layout: home
 
 #### Sentiment Analysis on Lyrics
 
->* [Lyric-Analysis]()
+>* [Lyric-Analysis](assets/)
 
 #### Personal Website
 >* **[You are here]**
 >* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
 #### Unemployment Rates in Canada
->* [Unemployment Rate (Time series analysis)]()
+>* [Unemployment Rate (Time series analysis)](assets/)
 
 
 #### Assignments
-*Some coursework that required some use of R.
->* [Multivariate]()
->* [Biostatistics]()
->* [Time Series]()
+*Some coursework that required some use of R.*
+>* [Multivariate Assignemnt #4](Assignments/multivar_As4.pdf)
+>* [Multivariate Assignment #5](Assignments/multi_as5.pdf)
+>* [Biostatistics](assets/)
+>* [Time Series](assets/)
 
 ##### Links
 - [Iskry](http://www.iskry.com/)
