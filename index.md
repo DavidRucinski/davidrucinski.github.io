@@ -1,6 +1,7 @@
 ---
 layout: Home
 title: David Rucinski
+toc: true
 ---
 
 
