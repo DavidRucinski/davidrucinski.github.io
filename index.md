@@ -20,12 +20,25 @@ layout: home
 ### Crime in Vancouver
 
 ![Vancouver Crimes 2003-2019](/assests/vancouver_plot.png)
-[Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
-[Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
-[Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)
 
+>* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
+>* [Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
 
+>* [Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)
 
+### Sentiment Analysis on Lyrics
+
+### Personal Website
+>* **[You are here]**
+
+### Unemployment Rates in Canada
+>* [Unemployment Rate (Time series analysis)]()
+
+### Assignments
+*Some coursework that required some use of R.
+>* [Multivariate]()
+>* [Biostatistics]()
+>* [Time Series]()
 
 #### Links
 - [Iskry](http://www.iskry.com/)
