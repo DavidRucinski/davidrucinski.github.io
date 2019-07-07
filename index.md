@@ -19,6 +19,10 @@ layout: home
 *Those I may not have everything posted here as I'm new to creating websites, I wanted an easy way to see work than going through github repositories.*
 ### Crime in Vancouver
 
+![Vancouver Crimes 2003-2019](/assests/vancouver_plot.png)
+[Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
+[Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
+[Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)
 
 
 
