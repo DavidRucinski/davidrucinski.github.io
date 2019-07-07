@@ -15,9 +15,9 @@ layout: home
 
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. I have also been a bit more active since I've finished my degree, I have joined a couple soccer leagues and created a shop for one of my teams.
 
-## Projects
+### Projects
 *Those I may not have everything posted here as I'm new to creating websites, I wanted an easy way to see work than going through github repositories.*
-##### Crime in Vancouver
+#### Crime in Vancouver
 
 ![Vancouver Crimes 2003-2019](vancouver_plot.png)
 
@@ -26,25 +26,25 @@ layout: home
 
 >* [Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)
 
-##### Sentiment Analysis on Lyrics
+#### Sentiment Analysis on Lyrics
 
 >* [Lyric-Analysis]()
 
-##### Personal Website
+#### Personal Website
 >* **[You are here]**
 >* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
-##### Unemployment Rates in Canada
+#### Unemployment Rates in Canada
 >* [Unemployment Rate (Time series analysis)]()
 
 
-##### Assignments
+#### Assignments
 *Some coursework that required some use of R.
 >* [Multivariate]()
 >* [Biostatistics]()
 >* [Time Series]()
 
-#### Links
+##### Links
 - [Iskry](http://www.iskry.com/)
 - [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/)
 - [Krav Maga](http://kravmaga-winnipeg.ca/?page_id=15)
