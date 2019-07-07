@@ -11,12 +11,13 @@ layout: home
 >>* R (programming language)
 >>* SQL 
 >>* Python
->>* HTML (to make this site)
+>>* HTML 
+>>* Markdown
 
->The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. I have also been a bit more active since I've finished my degree, I have joined a couple soccer leagues and created a shop for one of my teams.
+>The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams.
 
 ### Projects
-*Those I may not have everything posted here as I'm new to creating websites, I wanted an easy way to see work than going through github repositories.*
+*Though I may not have everything posted here, as I'm new to creating websites, I wanted an easier way than going through github repositoriesto to find pdfs.*
 #### Crime in Vancouver
 
 ![Vancouver Crimes 2003-2019](assets/vancouver_plot.png)
@@ -25,8 +26,8 @@ layout: home
 >* [Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
 * **[Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)**
 
-#### Sentiment Analysis on Lyrics
 
+#### Sentiment Analysis on Lyrics
 >* [Lyric-Analysis](https://github.com/DavidRucinski/Lyrics/blob/master/lyrics_mining.pdf)
 >>* [Repository](https://github.com/DavidRucinski/Lyrics)
 
@@ -42,12 +43,15 @@ layout: home
 
 
 #### Assignments
-*Some coursework that required some use of R.*
+*Some coursework that required R.*
 >* [Multivariate Assignemnt #4](https://github.com/DavidRucinski/Assignments/blob/master/multivar_As4.pdf)
 >* [Multivariate Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/multi_as5.pdf)
 >* [Biostatistics Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/as_5_biostat.pdf)
 >* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
 >>* [Repository](https://github.com/DavidRucinski/Assignments)
+
+
+
 
 ##### Links
 - [Iskry](http://www.iskry.com/)
