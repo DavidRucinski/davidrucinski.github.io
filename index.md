@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: David Rucinski
 toc: true
 ---
