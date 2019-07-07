@@ -23,8 +23,7 @@ layout: home
 
 >* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
 >* [Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
-
->* [Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)
+* **[Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)**
 
 #### Sentiment Analysis on Lyrics
 
