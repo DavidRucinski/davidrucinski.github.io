@@ -27,22 +27,27 @@ layout: home
 
 #### Sentiment Analysis on Lyrics
 
->* [Lyric-Analysis](assets/)
+>* [Lyric-Analysis](https://github.com/DavidRucinski/Lyrics/blob/master/lyrics_mining.pdf)
+>>* [Repository](https://github.com/DavidRucinski/Lyrics)
+
 
 #### Personal Website
 >* **[You are here]**
->* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
+>>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
+
 
 #### Unemployment Rates in Canada
->* [Unemployment Rate (Time series analysis)](assets/)
+>* [Unemployment Rate (Time series analysis)](https://github.com/DavidRucinski/CanadianUnemployment/blob/master/Project_unemployment.pdf)
+>>* [Repository](https://github.com/DavidRucinski/CanadianUnemployment)
 
 
 #### Assignments
 *Some coursework that required some use of R.*
->* [Multivariate Assignemnt #4](Assignments/blob/master/multivar_As4.pdf)
->* [Multivariate Assignment #5](Assignments/blob/master/multi_as5.pdf)
->* [Biostatistics](assets/)
+>* [Multivariate Assignemnt #4](https://github.com/DavidRucinski/Assignments/blob/master/multivar_As4.pdf)
+>* [Multivariate Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/multi_as5.pdf)
+>* [Biostatistics Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/as_5_biostat.pdf)
 >* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
+>>* [Repository](https://github.com/DavidRucinski/Assignments)
 
 ##### Links
 - [Iskry](http://www.iskry.com/)
