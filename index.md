@@ -39,10 +39,10 @@ layout: home
 
 #### Assignments
 *Some coursework that required some use of R.*
->* [Multivariate Assignemnt #4](Assignments/multivar_As4.pdf)
->* [Multivariate Assignment #5](Assignments/multi_as5.pdf)
+>* [Multivariate Assignemnt #4](Assignments/blob/master/multivar_As4.pdf)
+>* [Multivariate Assignment #5](Assignments/blob/master/multi_as5.pdf)
 >* [Biostatistics](assets/)
->* [Time Series](assets/)
+>* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
 
 ##### Links
 - [Iskry](http://www.iskry.com/)
