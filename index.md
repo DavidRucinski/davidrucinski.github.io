@@ -44,7 +44,7 @@ layout: home
 
 #### Assignments
 *Some coursework that required R.*
->* [Multivariate Assignemnt #4](https://github.com/DavidRucinski/Assignments/blob/master/multivar_As4.pdf)
+>* [Multivariate Assignment #4](https://github.com/DavidRucinski/Assignments/blob/master/multivar_As4.pdf)
 >* [Multivariate Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/multi_as5.pdf)
 >* [Biostatistics Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/as_5_biostat.pdf)
 >* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
