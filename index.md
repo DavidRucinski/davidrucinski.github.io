@@ -17,7 +17,7 @@ layout: home
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams.
 
 ### Projects
-*Though I may not have everything posted here, as I'm new to creating websites, I wanted an easier way than going through github repositoriesto to find pdfs.*
+*Though I may not have everything posted here, as I'm new to creating websites, I wanted an easier way than going through github repositories to to find pdfs.*
 #### Crime in Vancouver
 
 ![Vancouver Crimes 2003-2019](assets/vancouver_plot.png)
@@ -58,3 +58,5 @@ layout: home
 - [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/)
 - [Krav Maga](http://kravmaga-winnipeg.ca/?page_id=15)
 - [Casuals FC Store](https://casualsfc.entripyshops.com/)
+
+Why [MS Excel/Spreed Sheets](http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm) are not always the best option, yes in some cases this tool should be used but not for everything.
