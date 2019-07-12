@@ -1,10 +1,13 @@
-# Main website to host github pages
-## Using Boostrap 4 Github Pages
+## Personal website to host github pages
+>Using Boostrap 4 Github Pages, HTML, and Markdown 
 
-## Contribution
+
+
+
+##### Contribution
 
 [See the contribution guide.](./CONTRIBUTING.md)
 
-## License
+##### License
 
 [See the license file.](./LICENSE.md)
