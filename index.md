@@ -52,7 +52,6 @@ layout: home
 
 
 
-
 ##### Links
 - [Iskry](http://www.iskry.com/){:target="_blank"}
 - [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/){:target="_blank"}
