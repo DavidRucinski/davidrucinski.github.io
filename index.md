@@ -54,9 +54,9 @@ layout: home
 
 
 ##### Links
-- [Iskry](http://www.iskry.com/)
-- [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/)
-- [Krav Maga](http://kravmaga-winnipeg.ca/?page_id=15)
-- [Casuals FC Store](https://casualsfc.entripyshops.com/)
+- [Iskry](http://www.iskry.com/){:target="_blank"}
+- [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/){:target="_blank"}
+- [Krav Maga](http://kravmaga-winnipeg.ca/?page_id=15){:target="_blank"}
+- [Casuals FC Store](https://casualsfc.entripyshops.com/){:target="_blank"}
 
-Why [MS Excel/Spreed Sheets](http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm) are not always the best option, yes in some cases this tool should be used but not for everything.
+Why [MS Excel/Spreed Sheets](http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm){:target="_blank"} are not always the best option, yes in some cases this tool should be used but not for everything.
