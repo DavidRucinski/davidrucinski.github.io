@@ -37,6 +37,10 @@ layout: home
 >>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
 
+#### Winnipeg Project
+>>* [Repository](https://github.com/DavidRucinski/Winnipeg)
+
+
 #### Unemployment Rates in Canada
 >* [Unemployment Rate (Time series analysis)](https://github.com/DavidRucinski/CanadianUnemployment/blob/master/Project_unemployment.pdf)
 >>* [Repository](https://github.com/DavidRucinski/CanadianUnemployment)
