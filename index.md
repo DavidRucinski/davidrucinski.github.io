@@ -54,7 +54,16 @@ layout: home
 >* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
 >>* [Repository](https://github.com/DavidRucinski/Assignments)
 
+##### Certifications
+- [Data Analyst with R Track](https://www.datacamp.com/statement-of-accomplishment/track/d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3){:target="_blank"}
+>> **DataCamp**
+>> Credential ID: d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3
+>> June 2019
 
+- [Machine Learning](https://www.coursera.org/account/accomplishments/verify/XMS2R3WAZHZ2){:target="_blank"}
+>> **Coursera**
+>> Credential ID: XMS2R3WAZHZ2
+>> May 2019
 
 ##### Links
 - [Iskry](http://www.iskry.com/){:target="_blank"}
