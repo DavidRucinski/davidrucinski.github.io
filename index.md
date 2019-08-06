@@ -22,9 +22,9 @@ layout: home
 
 ![Vancouver Crimes 2003-2019](assets/vancouver_plot.png)
 
->* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
+* **[Crime Statistics Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)**
 >* [Data Profile](https://davidrucinski.github.io/Crime-in-Vancouver/data_profile_report.html)
-* **[Report](https://davidrucinski.github.io/Crime-in-Vancouver/crime_in_Van.html)**
+>* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
 
 
 #### Sentiment Analysis on Lyrics
