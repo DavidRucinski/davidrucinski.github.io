@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*New to making websites, please bear with me.*
+*corks often withered*
 
 
 ### About me
@@ -33,7 +33,7 @@ layout: home
 
 
 #### Personal Website
->* **[You are here]**
+>* 
 >>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
 
