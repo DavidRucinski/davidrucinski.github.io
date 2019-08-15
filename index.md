@@ -33,7 +33,6 @@ layout: home
 
 
 #### Personal Website
->* 
 >>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
 
