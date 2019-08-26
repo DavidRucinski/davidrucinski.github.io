@@ -17,9 +17,10 @@ title: David Rucinski
 email: "rucinski.delta@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Data Analyst and aspiring Data Scientist.
+  Updated: 2019/08/25
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-Updated: 2019/08/25
+#twitter_username:
 #github_username:  DavidRucinski
 
 repository: "DavidRucinski/davidrucinski.github.io"
