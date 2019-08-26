@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*corks often withered*
+*corks often withered* <space><space><space><space>*<space> *Updated: 2019/08/25*
 
 
 ### About me
@@ -54,7 +54,12 @@ layout: home
 >>* [Repository](https://github.com/DavidRucinski/Assignments)
 
 ##### Certifications
-- [Data Analyst with R Track](https://www.datacamp.com/statement-of-accomplishment/track/d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3){:target="_blank"}
+- [SQL Fundamentals - Skill Track](https://www.datacamp.com/statement-of-accomplishment/track/a2796832ec1bc72e51a72e8045c7172d7c767289){:target="_blank"}
+>> **DataCamp**
+>> Credential ID: a2796832ec1bc72e51a72e8045c7172d7c767289
+>> August 2019
+
+- [Data Analyst with R - Career Track](https://www.datacamp.com/statement-of-accomplishment/track/d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3){:target="_blank"}
 >> **DataCamp**
 >> Credential ID: d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3
 >> June 2019
