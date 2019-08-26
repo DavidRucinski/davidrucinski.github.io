@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*corks often withered* \newline *Updated: 2019/08/25*
+*corks often withered* 
 
 
 ### About me
