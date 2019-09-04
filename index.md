@@ -27,7 +27,7 @@ layout: home
 >* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
 
 
-![Heart](assets/heart_image.png)
+![Heart](assets/heart_image.png =200x40)
 
 #### Angina & Heart Disease
 >>* [Repository](https://github.com/DavidRucinski/Heart_health)
