@@ -27,6 +27,12 @@ layout: home
 >* [Vancouver Open Data Catalogue (all years)](https://data.vancouver.ca/datacatalogue/crime-data.htm)
 
 
+![Heart](assets/heart_image.png)
+
+#### Angina & Heart Disease
+>>* [Repository](https://github.com/DavidRucinski/Heart_health)
+
+
 #### Sentiment Analysis on Lyrics
 >* [Lyric-Analysis](https://github.com/DavidRucinski/Lyrics/blob/master/lyrics_mining.pdf)
 >>* [Repository](https://github.com/DavidRucinski/Lyrics)
