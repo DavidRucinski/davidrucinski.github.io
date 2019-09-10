@@ -61,24 +61,24 @@ layout: home
 ##### Certifications
 
 - [Data Scientist with R Track - Career Track](https://www.datacamp.com/statement-of-accomplishment/track/c027005be6f3c13c139be3d1436a3f8328b21382){:target="_blank"}
->> **DataCamp**
->> Credential ID: c027005be6f3c13c139be3d1436a3f8328b21382
->> September 2019
+>>* **DataCamp**
+>>* Credential ID: c027005be6f3c13c139be3d1436a3f8328b21382
+>>* September 2019
 
 - [SQL Fundamentals - Skill Track](https://www.datacamp.com/statement-of-accomplishment/track/a2796832ec1bc72e51a72e8045c7172d7c767289){:target="_blank"}
->> **DataCamp**
->> Credential ID: a2796832ec1bc72e51a72e8045c7172d7c767289
->> August 2019
+>>* **DataCamp**
+>>* Credential ID: a2796832ec1bc72e51a72e8045c7172d7c767289
+>>* August 2019
 
 - [Data Analyst with R - Career Track](https://www.datacamp.com/statement-of-accomplishment/track/d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3){:target="_blank"}
->> **DataCamp**
->> Credential ID: d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3
->> June 2019
+>>* **DataCamp**
+>>* Credential ID: d3742cbe66bb54e8f508e04cd5946c6d6b23ebe3
+>>* June 2019
 
 - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/XMS2R3WAZHZ2){:target="_blank"}
->> **Coursera**
->> Credential ID: XMS2R3WAZHZ2
->> May 2019
+>>* **Coursera**
+>>* Credential ID: XMS2R3WAZHZ2
+>>* May 2019
 
 ##### Links
 - [Iskry](http://www.iskry.com/){:target="_blank"}
