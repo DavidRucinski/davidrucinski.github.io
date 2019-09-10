@@ -10,9 +10,10 @@ layout: home
 
 >>* R (programming language)
 >>* SQL 
->>* Python
 >>* HTML 
 >>* Markdown
+>>* Python
+
 
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams.
 
@@ -58,6 +59,12 @@ layout: home
 >>* [Repository](https://github.com/DavidRucinski/Assignments)
 
 ##### Certifications
+
+- [Data Scientist with R Track - Career Track](https://www.datacamp.com/statement-of-accomplishment/track/c027005be6f3c13c139be3d1436a3f8328b21382){:target="_blank"}
+>> **DataCamp**
+>> Credential ID: c027005be6f3c13c139be3d1436a3f8328b21382
+>> September 2019
+
 - [SQL Fundamentals - Skill Track](https://www.datacamp.com/statement-of-accomplishment/track/a2796832ec1bc72e51a72e8045c7172d7c767289){:target="_blank"}
 >> **DataCamp**
 >> Credential ID: a2796832ec1bc72e51a72e8045c7172d7c767289
