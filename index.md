@@ -32,17 +32,17 @@ layout: home
 >>* [Repository](https://github.com/DavidRucinski/Heart_health)
 
 
-#### Sentiment Analysis on Lyrics
->* [Lyric-Analysis](https://github.com/DavidRucinski/Lyrics/blob/master/lyrics_mining.pdf)
->>* [Repository](https://github.com/DavidRucinski/Lyrics)
-
-
 #### Personal Website
 >>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
 
 #### Winnipeg Project
 >>* [Repository](https://github.com/DavidRucinski/Winnipeg)
+
+
+#### Sentiment Analysis on Lyrics
+>* [Lyric-Analysis](https://github.com/DavidRucinski/Lyrics/blob/master/lyrics_mining.pdf)
+>>* [Repository](https://github.com/DavidRucinski/Lyrics)
 
 
 #### Unemployment Rates in Canada
