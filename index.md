@@ -29,6 +29,7 @@ layout: home
 
 
 #### Angina & Heart Disease
+* **[Visualizations and Modeling](https://davidrucinski.github.io/Heart_health/show_heart.html)**
 >>* [Repository](https://github.com/DavidRucinski/Heart_health)
 
 
