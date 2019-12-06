@@ -9,6 +9,7 @@ layout: home
 >I recently graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as neural networks, machine learning, cluster analysis, Bayesian data analysis, and random forests to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
 
 >>* R (programming language)
+>>* SAS
 >>* SQL 
 >>* HTML 
 >>* Markdown
