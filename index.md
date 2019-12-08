@@ -39,7 +39,7 @@ layout: home
 
 #### Candy-Cleaning
 
-![Candy_age](assets/candy_age.jpg){:class="img-responsive"}
+![Candy_age](assets/candy_age.jpg){:height="50%" width="50%"}
 
 >* **[Candy Clean-up](https://davidrucinski.github.io/Heart_health/Candy/CandyFile.html)**
 >>* [Repository](https://github.com/DavidRucinski/Heart_health/tree/master/Candy)
