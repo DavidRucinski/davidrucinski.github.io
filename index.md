@@ -37,6 +37,12 @@ layout: home
 #### Personal Website
 >>* [Repository](https://github.com/DavidRucinski/davidrucinski.github.io)
 
+#### Candy-Cleaning
+
+![Candy_age](assets/candy_age.jpg)
+
+>* **[Candy Clean-up](https://davidrucinski.github.io/Heart_health/Candy/CandyFile.html)**
+>>* [Repository](https://github.com/DavidRucinski/Heart_health/tree/master/Candy)
 
 #### Winnipeg Project
 >>* [Repository](https://github.com/DavidRucinski/Winnipeg)
