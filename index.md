@@ -19,7 +19,7 @@ layout: home
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams. I also take part in the Winnipeg Data Science Meet-Ups, and I am a part of the Winnipeg R User Group.
 
 ### Projects
-*Though I may not have everything posted here, I wanted an easier way than going through github repositories to to find pdfs.*
+*Though I may not have everything posted here, I wanted an easier way than going through github repositories to see what's not empty.*
 #### Crime in Vancouver
 
 ![Vancouver Crimes 2003-2019](assets/vancouver_plot.png)
