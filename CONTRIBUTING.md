@@ -1,3 +1,3 @@
 # Contribution Guide
 
-## nicolas-van is awesome
+## nicolas-van is where this is forked from
