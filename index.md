@@ -95,4 +95,4 @@ layout: home
 - [Casuals FC Store](https://casualsfc.entripyshops.com/){:target="_blank"}
 - [Learn some R/SQL/Python with DataCamp](https://www.datacamp.com/promo/special_discount?friend_code=MjI3MTc2Mw%3D%3D){:target="_blank"}
 
-Why [MS Excel/Spreadsheets](http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm){:target="_blank"} are not always the best option, yes in some cases this tool should be used but not for everything.
+Why [MS Excel/Spreadsheets](https://davidrucinski.github.io/assets/spreadsheet_error.pdf){:target="_blank"} are not always the best option, yes in some cases this tool should be used but not for everything.
