@@ -58,14 +58,6 @@ layout: home
 >>* [Repository](https://github.com/DavidRucinski/CanadianUnemployment)
 
 
-#### Assignments
-*Some coursework that required R.*
->* [Multivariate Assignment #4](https://github.com/DavidRucinski/Assignments/blob/master/multivar_As4.pdf)
->* [Multivariate Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/multi_as5.pdf)
->* [Biostatistics Assignment #5](https://github.com/DavidRucinski/Assignments/blob/master/as_5_biostat.pdf)
->* [Time Series Assignment #3](https://github.com/DavidRucinski/Assignments/blob/master/TimeSeriesAs3.pdf)
->>* [Repository](https://github.com/DavidRucinski/Assignments)
-
 ##### Certifications
 
 - [Data Scientist with R Track - Career Track](https://www.datacamp.com/statement-of-accomplishment/track/c027005be6f3c13c139be3d1436a3f8328b21382){:target="_blank"}
