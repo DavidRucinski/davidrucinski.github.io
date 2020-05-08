@@ -13,7 +13,8 @@ layout: home
 >>* R (programming language)
 
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams. I also take part in the Winnipeg Data Science Meet-Ups, and I am a part of the Winnipeg R User Group.
->*Previously covered:*
+
+*Previously covered:*
 >>* SAS & Python
 >>* HTML & Markdown
 
