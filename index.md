@@ -2,21 +2,20 @@
 layout: home
 ---
 
-*corks often withered* 
+*You can do everything right and still fail* 
 
 
 ### About me
->I recently graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as neural networks, machine learning, cluster analysis, Bayesian data analysis, and random forests to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
+>I recently graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as <s>neural networks</s>, machine learning, cluster analysis, Bayesian data analysis, and random forests to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
 
+>>* Oracle
+>>* SQL
 >>* R (programming language)
->>* SAS
->>* SQL 
->>* HTML 
->>* Markdown
->>* Python
-
 
 >The communities my folk ensembles are a part of are important to me, I try to be as involved as much as possible volunteering in various fundraisers and festivals. I've been dancing with these groups for over ten years and look forward to Folklorama each summer. I have trained Krav Maga for about three years and have completed a few exams. My interest in soccer picked up, so I joined a couple soccer leagues and created a shop for one of my teams. I also take part in the Winnipeg Data Science Meet-Ups, and I am a part of the Winnipeg R User Group.
+*Previously covered:*
+>>* SAS & Python
+>>* HTML & Markdown
 
 ### Projects
 *Though I may not have everything posted here, I wanted an easier way than going through github repositories.*
@@ -79,6 +78,11 @@ layout: home
 >>* **Coursera**
 >>* Credential ID: XMS2R3WAZHZ2
 >>* May 2019
+
+##### Currently Learning:
+- Data Warehousing for Business Intelligence Specialization (Coursera)
+- JAGS
+- Bayesian Modeling
 
 ##### Links
 - [Iskry](http://www.iskry.com/){:target="_blank"}
