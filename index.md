@@ -86,7 +86,7 @@ layout: home
 - Bayesian Modeling
 
 ##### Links
-- [Iskry](http://www.iskry.com/){:target="_blank"}
+- [Iskry](https://www.facebook.com/SPKIskry){:target="_blank"}
 - [Kapisztran](https://en-gb.facebook.com/kapisztranensemble/){:target="_blank"}
 - [Krav Maga](http://kravmaga-winnipeg.ca/?page_id=15){:target="_blank"}
 - [Casuals FC Store](https://casualsfc.entripyshops.com/){:target="_blank"}
