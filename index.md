@@ -6,7 +6,7 @@ layout: home
 
 
 ### About me
->I recently graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as <s>neural networks</s>, <s>machine learning</s>, <s>cluster analysis</s>, Bayesian data analysis, and <s>random forests</s> to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
+>I am currently working as a Data Analyst for Ampjack Industries Ltd. on a project-based contract. Most of my work is with data integrity in Nektar, I audit and clean the data using Excel / R then update our database. I graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as <s>neural networks</s>, <s>machine learning</s>, <s>cluster analysis</s>, Bayesian data analysis, and <s>random forests</s> to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
 
 >>* Oracle
 >>* SQL
@@ -81,9 +81,8 @@ layout: home
 >>* May 2019
 
 ##### Currently Learning:
-- Data Warehousing for Business Intelligence Specialization (Coursera)
 - JAGS
-- Bayesian Modeling
+- Bayesian Modeling and computing
 
 ##### Links
 - [Iskry](https://www.facebook.com/SPKIskry){:target="_blank"}
