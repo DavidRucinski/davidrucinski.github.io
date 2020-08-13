@@ -6,7 +6,7 @@ layout: home
 
 
 ### About me
->I am currently working as a Data Analyst for Ampjack Industries Ltd. on a project-based contract. Most of my work is with data integrity in Nektar, I audit and clean the data using Excel / R then update our database. I graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as <s>neural networks</s>, <s>machine learning</s>, <s>cluster analysis</s>, Bayesian data analysis, and <s>random forests</s> to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
+>I am currently working as a Data Analyst for Ampjack Industries Ltd. on a project-based contract. Most of my work is data integrity using a data management tool called Nektar, I also use Excel and R to assist me with my audits. I graduated with a Bachelor of Science (B.Sc.) Major in Statistics at the University of Winnipeg, Manitoba. Statistical analysis is a passion of mine, I am always looking at the statistics to see their relative significance and learn more about the data. There are many topics I wish to explore further such as <s>neural networks</s>, <s>machine learning</s>, <s>cluster analysis</s>, Bayesian data analysis, and <s>random forests</s> to name a few. I am enthusiastic about learning, not only in data science and statistics, but in general. Recently I have been learning more:
 
 >>* Oracle
 >>* SQL
